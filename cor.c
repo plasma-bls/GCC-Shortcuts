@@ -6,7 +6,6 @@ int main(int argc, char *argv[])
   if (argc >= 2) {
     char cmd[100];
     char run[100];
-    char del[100];
     char bsnmae[64];
     strcpy(bsnmae, argv[1]); 
     int lg = strlen(bsnmae);
