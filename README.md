@@ -4,7 +4,7 @@ Some simple and stupid GCC Compiler shortcuts to not make your terminal messy
 ## Usage
 `comp` - compile only<br>
 `cor`  - compile and run<br>
-`cod`  - compile, run and clean
+`cod`  - compile, run and delete
 
 ## Get this repository
 ```bash
