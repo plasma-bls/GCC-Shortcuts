@@ -1,6 +1,11 @@
 # GCC-Shortcuts
 Some simple and stupid GCC Compiler shortcuts to not make your terminal messy
 
+## Usage
+`comp` - compile only<br>
+`cor`  - compile and run<br>
+`cod`  - compile, run and clean
+
 ## Get this repository
 ```bash
 $ git clone https://github.com/plasma-bls/GCC-Shortcuts.git && cd GCC-Shortcuts/
