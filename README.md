@@ -1,6 +1,10 @@
 # GCC-Shortcuts
 Some simple and stupid GCC Compiler shortcuts to not make your terminal messy
 
+## Get this repository
+```bash
+$ git clone https://github.com/plasma-bls/GCC-Shortcuts.git && cd GCC-Shortcuts/
+```
 ## Install or uninstall them on your system!
 ```bash
 // To install
