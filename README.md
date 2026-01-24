@@ -4,7 +4,7 @@ Some simple and stupid GCC Compiler shortcuts to not make your terminal (and exp
 ## Usage
 `comp` - compile only<br>
 `cor`  - compile and run<br>
-`cod`  - compile, run and delete
+`cod`  - compile, run and delete (useful if you are debugging / testing code)
 
 ## Get this repository
 ```bash
