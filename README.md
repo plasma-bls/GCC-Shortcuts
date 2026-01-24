@@ -1,5 +1,5 @@
 # GCC-Shortcuts
-Some simple and stupid GCC Compiler shortcuts to not make your terminal messy
+Some simple and stupid GCC Compiler shortcuts to not make your terminal (and experience) messy
 
 ## Usage
 `comp` - compile only<br>
